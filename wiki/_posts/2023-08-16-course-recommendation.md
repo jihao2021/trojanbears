@@ -29,3 +29,7 @@ tags: [course]
 | MATH 619           | Applied Probability                                       | Math Course |
 | MATH 651           | Optimization I                                            | Math Course |
 | MATH 678           | Introduction to Topological Data Analysis                 | Math Course |
+
+Feel free to check other courses at the [graduate course descriptions page](https://catalog.tamu.edu/graduate/course-descriptions/).
+
+For more information, please see [Ph.D. Mechanical Engineering course requirements](https://engineering.tamu.edu/mechanical/academics/degrees/graduate/phd.html).
