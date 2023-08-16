@@ -71,7 +71,7 @@
           <span class="icon-bar"></span>
         </button>
         <a href="/">
-        <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/ideal_logo_dark.png" type="image/png">
+        <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/lab_logo.png" type="image/png">
         </a>
       </div>
 
@@ -85,16 +85,13 @@
              {% assign make_title = false %}
             {% endif %}
           {% endfor %}
-          {% if make_title == true %}
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          {% endif %}
         </ul>
         <ul class="nav navbar-nav navbar-right pull-right">
           {% assign pages_list = (site.pages | sort: 'navorder') %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
           <li class="nav navbar-nav">
-            <a href="https://www.github.com/IDEALLAB">GitHub</a>
+            <a href="https://www.github.com/DIGITLab23">GitHub</a>
           </li>
           {% comment %}
           <li class="dropdown nav navbar-nav">
@@ -135,12 +132,6 @@
         <ul class="nav navbar-nav navbar-left navbar-small">
           <li><a href={{ site.department.url }}>{{ site.department.name }}</a></li>
           <li><a href={{ site.institution.url }}>{{ site.institution.name }}</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right navbar-small">
-          <li><a href='/about.html'>About</a></li>
-          <li><a href='/blog/FAQ#what-department-should-i-apply-to'>Join</a></li>
-          <li><a href='/about.html#contact'>Contact</a></li>
-          <li><a href='https://www.github.com/IDEALLAB/'>GitHub</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div>

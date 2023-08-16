@@ -3,7 +3,7 @@ layout: news
 title: "2021 JMD Editors’ Choice Honorable Mention"
 author: "Wei Chen"
 author_handle: "weichen"
-image: /assets/images/news/default-news.png
+image: 
 category: news
 tags: [award]
 ---

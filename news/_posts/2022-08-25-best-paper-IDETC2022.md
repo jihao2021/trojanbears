@@ -3,7 +3,7 @@ layout: news
 title: "IDETC 2022 DAC Best Paper Award"
 author: "Wei Chen"
 author_handle: "weichen"
-image: /assets/images/news/default-news.png
+image: 
 category: news
 tags: [award]
 ---

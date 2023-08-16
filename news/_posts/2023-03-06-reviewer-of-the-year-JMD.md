@@ -3,7 +3,7 @@ layout: news
 title: "JMD 2022 Reviewer Of The Year Award"
 author: "Wei Chen"
 author_handle: "weichen"
-image: /assets/images/news/default-news.png
+image: 
 category: news
 tags: [award]
 ---

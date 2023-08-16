@@ -4,27 +4,28 @@
 permalink: /:categories/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace"]
+exclude: [vendor]
 highlighter: rouge
 
 markdown: kramdown
 
-repository: ideallab/ideallab.github.io
+repository: DIGITLab23/digitlab23.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : IDEAL Lab
-tagline: Informatics for Design, Engineering, and Learning Lab
+title : DIGIT Lab
+tagline: Design Innovation & Generative InTelligence
 institution:
-  url: http://www.umd.edu
-  name: The University of Maryland
+  url: http://www.tamu.edu
+  name: Texas A&M University
 department:
-  url: http://enme.umd.edu
+  url: http://engineering.tamu.edu/mechanical
   name: Mechanical Engineering
 author :
-  name : Mark Fuge
-  email : fuge@umd.edu
-  github : markfuge
+  name : Wei Chen
+  email : w.chen@tamu.edu
+  github : wchen459
 #  twitter : 
 #  feedburner : feedname
 
@@ -36,7 +37,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://ideal.umd.edu
+production_url : https://digit.engr.tamu.edu
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
