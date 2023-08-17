@@ -1,18 +1,16 @@
-# The IDEAL Lab main website
+# The DIGIT Lab website
 
-## TO-DOs
-
-See Issues on [the site](https://github.com/IDEALLab/ideallab.github.io).
+This site used the template created by the [IDEAL Lab](https://ideal.umd.edu/about.html).
 
 ## Build site
 
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/IDEALLab/ideallab.github.io.git
+git clone git@github.com:DIGITLab23/digitlab23.github.io.git
 ```
 
-Then install necessary Ruby dependencies by running `bundle install` from within the `ideallab.github.io` directory.  After this, the site can be be built with:
+Then install necessary Ruby dependencies by running `bundle install` from within the `digitlab23.github.io` directory.  After this, the site can be be built with:
 
 ```
 bundle exec jekyll build
