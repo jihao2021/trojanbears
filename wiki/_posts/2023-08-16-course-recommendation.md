@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Course Recommendation"
+title: "Course Recommendation for New Ph.D. Students"
 author: "Wei Chen"
 author_handle: "weichen"
 image: 
