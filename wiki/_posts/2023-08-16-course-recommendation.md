@@ -1,5 +1,5 @@
 ---
-layout: protocol
+layout: project
 title: "Course Recommendation for New Ph.D. Students"
 author: "Wei Chen"
 author_handle: "weichen"
