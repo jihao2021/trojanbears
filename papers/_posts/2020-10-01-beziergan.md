@@ -18,7 +18,7 @@ github: "https://github.com/IDEALLab/bezier-gan"
 doi: https://doi.org/10.2514/1.J059317
 category: paper
 published: true
-tags: [beziergan_aiaaj]
+tags: [journal]
 ---
 {% include JB/setup %}
 

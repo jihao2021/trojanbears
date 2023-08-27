@@ -18,7 +18,7 @@ github: "https://github.com/IDEALLab/hgan_idetc2018"
 doi:
 category: paper
 published: true
-tags: [hgan]
+tags: [conference]
 ---
 {% include JB/setup %}
 

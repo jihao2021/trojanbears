@@ -18,7 +18,7 @@ github: 'https://github.com/wchen459/GAN-DUF'
 doi: 10.1115/1.4055898
 category: paper
 published: true
-tags: [ganduf_jmd]
+tags: [journal]
 ---
 {% include JB/setup %}
 

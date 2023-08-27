@@ -18,7 +18,7 @@ github:
 doi: 10.1038/s41598-022-23431-2
 category: paper
 published: true
-tags: [lvgp]
+tags: [journal]
 ---
 {% include JB/setup %}
 

@@ -18,7 +18,7 @@ github:
 doi: 10.1115/1.4055925
 category: paper
 published: true
-tags: [tmetaset_jmd]
+tags: [journal]
 ---
 {% include JB/setup %}
 

@@ -18,7 +18,7 @@ github:
 doi: 10.1115/DETC2022-87653
 category: paper
 published: true
-tags: [tmetaset_idetc]
+tags: [conference]
 ---
 {% include JB/setup %}
 

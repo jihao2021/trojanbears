@@ -18,7 +18,7 @@ github: "https://github.com/wchen459/PaDGAN"
 doi:
 category: paper
 published: true
-tags: [padgan]
+tags: [conference]
 ---
 {% include JB/setup %}
 

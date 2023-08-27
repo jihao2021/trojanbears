@@ -18,7 +18,7 @@ github: "https://github.com/IDEALLab/design_embeddings_jmd_2016"
 doi: "10.1115/1.4036134"
 category: paper
 published: true
-tags: [manifolds]
+tags: [journal]
 ---
 {% include JB/setup %}
 

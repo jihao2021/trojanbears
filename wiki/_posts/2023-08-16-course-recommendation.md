@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: protocol
 title: "Course Recommendation for New Ph.D. Students"
-handle: 
-image: 
+description: ""
+published: true
 category: wiki
 tags: [course]
 ---

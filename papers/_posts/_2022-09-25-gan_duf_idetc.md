@@ -18,7 +18,7 @@ github: 'https://github.com/wchen459/GAN-DUF'
 doi: 10.1115/DETC2022-89707
 category: paper
 published: true
-tags: [ganduf_idetc]
+tags: [conference]
 ---
 {% include JB/setup %}
 

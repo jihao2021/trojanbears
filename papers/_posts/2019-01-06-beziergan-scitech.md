@@ -18,7 +18,7 @@ github: "https://github.com/IDEALLab/airfoil-opt-gan"
 doi:
 category: paper
 published: true
-tags: [airfoil_opt]
+tags: [conference]
 ---
 {% include JB/setup %}
 

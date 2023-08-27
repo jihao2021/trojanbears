@@ -18,7 +18,7 @@ github: "https://github.com/ahnobari/Range-GAN"
 doi: 10.1115/DETC2021-69963
 category: paper
 published: true
-tags: [rangegan]
+tags: [conference]
 ---
 {% include JB/setup %}
 

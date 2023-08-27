@@ -18,7 +18,7 @@ github:
 doi: 10.48550/arXiv.2307.05506
 category: paper
 published: true
-tags: [etal]
+tags: [preprint]
 ---
 {% include JB/setup %}
 
