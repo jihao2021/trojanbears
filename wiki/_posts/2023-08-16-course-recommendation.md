@@ -1,12 +1,12 @@
 ---
 layout: project
 title: "Course Recommendation for New Ph.D. Students"
-author: "Wei Chen"
-author_handle: "weichen"
+handle: 
 image: 
 category: wiki
 tags: [course]
 ---
+{% include JB/setup %}
 
 | Course Number      | Course Name                                               | Note        |
 |--------------------|-----------------------------------------------------------|-------------|
