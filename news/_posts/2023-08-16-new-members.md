@@ -8,4 +8,4 @@ category: news
 tags: [award]
 ---
 
-Welcome two new members, [Haoxuan Mu](team/haoxuan-mu) and [Jiahui (Cal) Zheng](team/cal-zheng), to join our team!
+We are excited to welcome two new members, [Haoxuan Mu](team/haoxuan-mu) and [Jiahui (Cal) Zheng](team/cal-zheng), to our team!
