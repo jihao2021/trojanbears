@@ -39,6 +39,9 @@ tags: [conference]
 # Materials
 * [Materials Research Society (MRS) Spring/Fall Meeting](https://www.mrs.org/meetings-events/)
 
+# Uncertainty Quantification
+* SIAM Conference on Uncertainty Quantification (UQ)
+
 # Aerospace
 * [AIAA SciTech Forum](https://www.aiaa.org/SciTech)
 
