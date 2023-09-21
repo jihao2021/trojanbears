@@ -11,7 +11,7 @@ tags: [conference]
 # Design
 * [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE)](https://event.asme.org/IDETC-CIE)
 * [International Design Conference (DESIGN)](https://www.designconference.org/)
-* [International Conference on Engineering Design(ICED)](https://iced.designsociety.org/)
+* [International Conference on Engineering Design (ICED)](https://iced.designsociety.org/)
 * International Conference on Design Computing and Cognition (DCC)
 
 # AI/ML
