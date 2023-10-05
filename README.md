@@ -28,22 +28,6 @@ ruby _scripts/update-and-preprocess.rb
 
 Then `jekyll build` works as normal.
 
-## Contribute
-
-Blog posts just require YAML top matter that looks something like:
-
-```
----
-layout: post
-title: Your Title
-author: Mark Fuge
-link: https://enme.umd.edu
-image: /images/path/to/image.png
----
-```
-
-The `layout`, `title` and `author` tags are required, while `link` and `image` are optional.  Just save a Markdown file with this top matter as something like `blog/_posts/YYYY-MM-DD-blog-title.md`, where `YYYY-MM-DD` is the date of the post and `newton-institute` is the `blog-title`.  This short title is used in the URL of the post, so this becomes `blog/blog-title/`, so the short title should be long enough and unique enough not to cause conflicts with other posts.
-
 ## For more information
 
 * Look over the [metadata format guide](http://bedford.io/guide/format/)
