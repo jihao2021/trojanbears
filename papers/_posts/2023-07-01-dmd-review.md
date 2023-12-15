@@ -2,20 +2,20 @@
 layout: paper
 title: "Data-Driven Design for Metamaterials and Multiscale Systems: A Review"
 year: "2023"
-shortref: "Lee et al. <i>arXiv</i> 2023"
+shortref: "Lee et al. <i>AM</i> 2023"
 nickname: lee2023dmd
-journal: "arXiv"
+journal: "Advanced Materials"
 volume: 
 issue: 
 pages: 
 authors: "Doksoo Lee, Wei (Wayne) Chen, Liwei Wang, Yu-Chin Chan, and Wei Chen"
 image: /assets/images/papers/2023_dmd_review.png
 redirect_from: 
-fulltext: 
+fulltext: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305254
 pdf: /assets/pdfs/2307.05506.pdf
 pdflink: 
 github: 
-doi: 10.48550/arXiv.2307.05506
+doi: 10.1002/adma.202305254
 category: paper
 published: true
 tags: [preprint]
