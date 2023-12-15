@@ -34,8 +34,9 @@ Metamaterials are artificial materials designed to exhibit effective material pa
 ```
 @article{lee2023data,
   title={Data-Driven Design for Metamaterials and Multiscale Systems: A Review},
-  author={Lee, Doksoo and Chen, Wei Wayne and Wang, Liwei and Chan, Yu-Chin and Chen, Wei},
-  journal={arXiv preprint arXiv:2307.05506},
-  year={2023}
+  author={Lee, Doksoo and Chen, Wei and Wang, Liwei and Chan, Yu-Chin and Chen, Wei},
+  journal={Advanced Materials},
+  pages={2305254},
+  publisher={Wiley Online Library}
 }
 ```
