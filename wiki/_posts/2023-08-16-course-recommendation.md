@@ -12,7 +12,7 @@ tags: [course]
 |--------------------|-----------------------------------------------------------|-------------|
 | MEEN 683           | Multidisciplinary System Analysis and Design Optimization | Core Course |
 | MEEN 601           | Advanced Product Design                                   | Core Course |
-| MEEN 672           | Introduction to Finite Element Method                     | Core Course |
+| MEEN 653           | Scientific Writing                                        |             |
 | CSCE 620/VIZA 670  | Computational Geometry                                    |             |
 | CSCE 625           | Artificial Intelligence                                   |             |
 | CSCE 633           | Machine Learning                                          |             |
