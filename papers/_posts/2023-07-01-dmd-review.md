@@ -18,7 +18,7 @@ github:
 doi: 10.1002/adma.202305254
 category: paper
 published: true
-tags: [preprint]
+tags: [journal]
 ---
 {% include JB/setup %}
 
