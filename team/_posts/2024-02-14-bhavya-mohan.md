@@ -11,4 +11,4 @@ image: /assets/images/team/head_bhavya.JPG
 cv:
 alum: false
 ---
-Bhavya is a graduate student majoring in Data Science.Now she is working on AI for Design Innovation powered by LLMs and Knowledge Graphs under the supervision of Dr. Wei Chen.
+Bhavya is a graduate student majoring in Data Science. Now she is working on AI for Design Innovation powered by LLMs and Knowledge Graphs under the supervision of Dr. Wei Chen.
