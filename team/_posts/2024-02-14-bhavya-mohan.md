@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Bhavyasree Mohan"
+title: "Bhavya Mohan"
 position: Graduate Student
 nickname: Bhavya
 handle: 
