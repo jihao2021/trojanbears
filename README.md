@@ -1,4 +1,4 @@
-# The DIGIT Lab website
+# The Trojanbears Lab website
 
 This site used the template created by the [IDEAL Lab](https://ideal.umd.edu/about.html).
 
