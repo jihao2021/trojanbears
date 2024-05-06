@@ -9,23 +9,23 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: DIGITLab23/digitlab23.github.io
+repository: jihao2021/jihao2021.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : DIGIT Lab
-tagline: Design Innovation & Generative InTelligence
+title : Hao Ji Personal Website
+tagline: Engineering Design
 institution:
-  url: http://www.tamu.edu
-  name: Texas A&M University
+  url: http://www.usc.edu
+  name: University of Southern California
 department:
-  url: http://engineering.tamu.edu/mechanical
-  name: Mechanical Engineering
+  url: https://www.carc.usc.edu
+  name: Center for Advanced Research Computing
 author :
-  name : Wei Chen
-  email : w.chen@tamu.edu
-  github : wchen459
+  name : Hao Ji
+  email : haoji@usc.edu
+  github : jihao2021
 #  twitter : 
 #  feedburner : feedname
 
