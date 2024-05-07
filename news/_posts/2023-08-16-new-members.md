@@ -8,4 +8,6 @@ category: news
 tags: [award]
 ---
 
-We are excited to welcome two new members, [Haoxuan Mu](team/haoxuan-mu) and [Jiahui (Cal) Zheng](team/cal-zheng), to our team!
+The CARC-Lab is officially established! Welcome to our lab space!
+
+#We are excited to welcome two new members, [Haoxuan Mu](team/haoxuan-mu) and [Jiahui (Cal) Zheng](team/cal-zheng), to our team!
