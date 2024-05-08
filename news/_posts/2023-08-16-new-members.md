@@ -8,6 +8,5 @@ category: news
 tags: [award]
 ---
 
-The CARC-Lab is officially established! Welcome to our lab space!
+The CARC (Creativity and Research Computing) Lab is officially established! Welcome to our lab space! 
 
-#We are excited to welcome two new members, [Haoxuan Mu](team/haoxuan-mu) and [Jiahui (Cal) Zheng](team/cal-zheng), to our team!
