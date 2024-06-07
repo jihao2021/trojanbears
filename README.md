@@ -1,4 +1,4 @@
-# The Trojanbears Lab website
+# The Transoformer website
 
 This site used the template created by the [IDEAL Lab](https://ideal.umd.edu/about.html).
 
